@@ -20,7 +20,9 @@ Don't hesitate to report bugs or ask for new features by [openning an issue](htt
 
 - **Windows**:
   - [Gearcoleco-1.1.0-windows.zip](https://github.com/drhelius/Gearcoleco/releases/download/1.1.0/Gearcoleco-1.1.0-windows.zip)
-  - NOTE: You may need to install the [Microsoft Visual C++ Redistributable](https://go.microsoft.com/fwlink/?LinkId=746572)
+  - NOTE: If you have errors you may need to install:
+    - [Microsoft Visual C++ Redistributable](https://go.microsoft.com/fwlink/?LinkId=746572)
+    - [OpenGL Compatibility Pack](https://apps.microsoft.com/detail/9nqpsl29bfff)
 - **macOS**:
   - [Gearcoleco-1.1.0-macos-arm.zip](https://github.com/drhelius/Gearcoleco/releases/download/1.1.0/Gearcoleco-1.1.0-macos-arm.zip)
   - [Gearcoleco-1.1.0-macos-intel.zip](https://github.com/drhelius/Gearcoleco/releases/download/1.1.0/Gearcoleco-1.1.0-macos-intel.zip)
